@@ -3,13 +3,13 @@
 /**
  *
  * Plugin Name: SupportStation Toolbar 
- * Plugin URI: http://remkusdevries.com/plugins/genesis-translations/
+ * Plugin URI: http://supportstation.org/
  * Description: This plugin will add a support link to the Toolbar.
  * Author: Remkus de Vries
  * Version: 1.0
  * Author URI: http://remkusdevries.com/
  * License: GPLv2
- * Text Domain: genesis-translations
+ * 
 */
 
 add_action( 'admin_bar_menu', 'fst_support_toolbar_menu', 995 );

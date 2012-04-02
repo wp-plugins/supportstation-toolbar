@@ -21,16 +21,6 @@ Installation of this plugin works like any other plugin out there. Either:
 
 Or search for the plugin via your plugins menu.
 
-== Frequently Asked Questions ==
-
-= Can I make a suggestion =
-
-You most certainly can. Contact me via [Twitter](http://twitter.com/DeFries "My Twitter Account")
-
-== Screenshots ==
-
-1. A sample of what the plugin looks like
-
 == Changelog ==
 
 = 1.0 =
