@@ -2,9 +2,9 @@
 Contributors: DeFries
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4UVLDL3LEG2QG
 Tags: toolbar
-Requires at least: 3.1
-Tested up to: 3.4
-Stable tag: 1.0
+Requires at least: 3.5
+Tested up to: 3.7
+Stable tag: 1.1
 
 WordPress Toolbar addition for Supportstation.org support
 
@@ -21,17 +21,12 @@ Installation of this plugin works like any other plugin out there. Either:
 
 Or search for the plugin via your plugins menu.
 
-== Frequently Asked Questions ==
-
-= Can I make a suggestion =
-
-You most certainly can. Contact me via [Twitter](http://twitter.com/DeFries "My Twitter Account")
-
-== Screenshots ==
-
-1. A sample of what the plugin looks like
-
 == Changelog ==
+
+= 1.1 =
+
+* Updated urls
+
 
 = 1.0 =
 
@@ -39,6 +34,10 @@ You most certainly can. Contact me via [Twitter](http://twitter.com/DeFries "My 
 
 
 == Upgrade Notice ==
+
+= 1.1 =
+
+* Update naar nieuwe linkjes.
 
 
 == Other Notes ==
