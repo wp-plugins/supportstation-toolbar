@@ -1,4 +1,4 @@
-=== Supportstation Toolbar ===
+=== ForSite Media Toolbar ===
 Contributors: DeFries
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4UVLDL3LEG2QG
 Tags: toolbar
@@ -6,7 +6,7 @@ Requires at least: 3.5
 Tested up to: 3.7
 Stable tag: 1.1
 
-WordPress Toolbar addition for Supportstation.org support
+WordPress Toolbar addition for all you lucky customers working with us.
 
 == Description ==
 
