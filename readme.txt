@@ -6,11 +6,9 @@ Requires at least: 3.5
 Tested up to: 4.3
 Stable tag: 1.1.1
 
-WordPress Toolbar addition for all you lucky customers working with us.
-
 == Description ==
 
-This plugin adds a link to your Toolbar for Supportstation.org
+This plugin adds a link to your Toolbar for the Forsite Media project management tool. For all you lucky customers working with us.
 
 == Installation ==
 
