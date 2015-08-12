@@ -1,13 +1,12 @@
 <?php
-
 /**
  *
- * Plugin Name: ForSite Media Toolbar
- * Plugin URI: http://project.forsitemedia.nl/
+ * Plugin Name: Forsite Media Toolbar
+ * Plugin URI: https://project.forsite.media/
  * Description: This plugin will add a support link to the Toolbar.
  * Author: Remkus de Vries, forsitemedia
- * Version: 1.1
- * Author URI: http://www.forsitemedia.nl/
+ * Version: 1.1.1
+ * Author URI: https://forsite.media/
  * License: GPLv2
  *
 */
@@ -27,7 +26,7 @@ function fst_support_toolbar_menu() {
 	$wp_admin_bar->add_menu( array(
 		'id'		=> 'fst_support_toolbar',
 		'title' 	=> __( 'Support' ),
-		'href'  	=> 'http://project.forsitemedia.nl/',
+		'href'  	=> 'http://project.forsite.media/',
 		'meta'        => array( 'target' => '_blank' )
 		)
 	);
@@ -35,7 +34,7 @@ function fst_support_toolbar_menu() {
 		'parent'	=> 'fst_support_toolbar',
 		'id' 		=> 'fst-support',
 		'title' 	=> __( 'Support site' ),
-		'href' 		=> 'http://project.forsitemedia.nl/',
+		'href' 		=> 'http://project.forsite.media/',
 		'meta' 		=> array( 'target' => '_blank' )
 		)
 	);
@@ -75,7 +74,6 @@ function fst_genesis_toolbar_style() {
 		background: linear-gradient(top,  #87e0fd 0%,#53cbf1 40%,#05abe0 100%); /* W3C */
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#87e0fd', endColorstr='#05abe0',GradientType=0 ); /* IE6-8 */
 	}
-
 	</style>
 	<?php
 }
