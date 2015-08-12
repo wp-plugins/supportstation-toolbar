@@ -1,10 +1,10 @@
-=== ForSite Media Toolbar ===
+=== Forsite Media Toolbar ===
 Contributors: DeFries
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4UVLDL3LEG2QG
 Tags: toolbar
 Requires at least: 3.5
-Tested up to: 4.2
-Stable tag: 1.1
+Tested up to: 4.3
+Stable tag: 1.1.1
 
 WordPress Toolbar addition for all you lucky customers working with us.
 
